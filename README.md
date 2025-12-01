@@ -20,7 +20,7 @@ pkg install python -y
 pkg install python2 -y
 pkg install git -y
 pip install lolcat
-git clone https://github.com/noob-hackers/grabcam
+git clone https://github.com/Cybersojib12/grabcam.git
 cd $HOME
 ls
 cd grabcam
