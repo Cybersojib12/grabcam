@@ -22,7 +22,7 @@ echo '
 
                                                                                
 echo " "
-printf "      \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
+printf "      \e[1;77m v1.0 coded by https://github.com/Cybersojib12/grabcam.git\e[0m \n"
 printf "          \e[1;77m v1.1 This reborn script by { CYBER SOJIB }\e[0m \n"
 
 printf "\n"
